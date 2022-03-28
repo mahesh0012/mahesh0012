@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "81d9cd01-ec95-4787-9b98-902f8bf971c6",
+		"name": "New Collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "User Deatils API",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://testalphonic.com/projects/ramkesh/spendzz/api/users/v2/sign-complete",
+					"protocol": "https",
+					"host": [
+						"testalphonic",
+						"com"
+					],
+					"path": [
+						"projects",
+						"ramkesh",
+						"spendzz",
+						"api",
+						"users",
+						"v2",
+						"sign-complete"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
